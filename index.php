@@ -1,4 +1,7 @@
 <?php
+/*
+  这是首页
+*/
 require("core/main/ini.php");
 $bool = session_start();  //开启会话
 var_dump($bool);    //test
